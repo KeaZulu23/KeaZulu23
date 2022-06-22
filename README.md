@@ -1,5 +1,4 @@
 - Hi there 👋 !!!
 - I am a full-stack dev looking to solve the problems of the real world! 👨‍💻✨
 - I have a passion for learning and challenging myself everyday. 🤩
-- My interests lie in music, reading, coding, designing and I am also a fitness junkie in progress. 🎧📚👨‍💻👨‍🎨🏋️‍♂️
-- I see myself as a young Tony Stark. 
+- My interests lie in music, reading, coding, designing and I am also a fitness junkie in progress. 🎧📚👨‍💻👨‍🎨🏋️‍♂️ 
